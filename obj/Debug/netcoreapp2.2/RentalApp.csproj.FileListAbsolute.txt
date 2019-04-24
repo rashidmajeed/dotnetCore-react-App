@@ -1,0 +1,14 @@
+D:\dotnetProjects\RentalApp\bin\Debug\netcoreapp2.2\RentalApp.deps.json
+D:\dotnetProjects\RentalApp\bin\Debug\netcoreapp2.2\RentalApp.runtimeconfig.json
+D:\dotnetProjects\RentalApp\bin\Debug\netcoreapp2.2\RentalApp.runtimeconfig.dev.json
+D:\dotnetProjects\RentalApp\bin\Debug\netcoreapp2.2\RentalApp.dll
+D:\dotnetProjects\RentalApp\obj\Debug\netcoreapp2.2\RentalApp.csproj.CoreCompileInputs.cache
+D:\dotnetProjects\RentalApp\obj\Debug\netcoreapp2.2\RentalApp.RazorAssemblyInfo.cache
+D:\dotnetProjects\RentalApp\obj\Debug\netcoreapp2.2\RentalApp.RazorAssemblyInfo.cs
+D:\dotnetProjects\RentalApp\obj\Debug\netcoreapp2.2\RentalApp.AssemblyInfoInputs.cache
+D:\dotnetProjects\RentalApp\obj\Debug\netcoreapp2.2\RentalApp.AssemblyInfo.cs
+D:\dotnetProjects\RentalApp\obj\Debug\netcoreapp2.2\RentalApp.RazorTargetAssemblyInfo.cache
+D:\dotnetProjects\RentalApp\bin\Debug\netcoreapp2.2\RentalApp.pdb
+D:\dotnetProjects\RentalApp\obj\Debug\netcoreapp2.2\RentalApp.dll
+D:\dotnetProjects\RentalApp\obj\Debug\netcoreapp2.2\RentalApp.pdb
+D:\dotnetProjects\RentalApp\obj\Debug\netcoreapp2.2\RentalApp.csprojAssemblyReference.cache

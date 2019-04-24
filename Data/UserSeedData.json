@@ -1,0 +1,208 @@
+[
+	{
+		"Username": "Dorothy",
+		"Gender": "female",
+		"Password": "password",
+		"Created": "2017-01-21",
+		"Country": "Norway",
+		"Photos": [
+			{
+				"url": "https://randomuser.me/api/portraits/women/49.jpg",
+				"description": "This is my pic and wanted to use it with This Application"
+			}
+		],
+		"Rentals": [
+			{
+				"title": "Nice view on ocean",
+				"city": "Oslo",
+				"street": "Main street",
+				"category": "condo",
+				"imageUrl": "https://booksync-jerga-prod.s3.amazonaws.com/uploads/rental/image/5/image.jpeg",
+				"bedrooms": 4,
+				"shared": false,
+				"description": "Very nice apartment in center of the city.",
+				"dailyRate": 43
+			}
+		]
+	},
+	{
+		"Username": "Reba",
+		"Gender": "female",
+		"Password": "password",
+		"Created": "2017-06-24",
+		"Country": "Poland",
+		"Photos": [
+			{
+				"url": "https://randomuser.me/api/portraits/women/24.jpg",
+				"description": "This is my real pic and wanted to use it with This Application"
+			}
+		],
+		"Rentals": [
+			{
+				"title": "Modern apartment in center",
+				"city": "Warshaw",
+				"street": "Time Square",
+				"category": "apartment",
+				"imageUrl": "https://booksync-jerga-prod.s3.amazonaws.com/uploads/rental/image/5/image.jpeg",
+				"bedrooms": 1,
+				"shared": true,
+				"description": "Very nice apartment in center of the city.",
+				"dailyRate": 11
+			}
+		]
+	},
+	{
+		"Username": "Annmarie",
+		"Gender": "female",
+		"Password": "password",
+		"Country": "Denmark",
+		"Photos": [
+			{
+				"url": "https://randomuser.me/api/portraits/women/74.jpg",
+				"description": "This is my pic and wanted to use it with This Application"
+			}
+		],
+		"Rentals": [
+			{
+				"title": "Old house in nature",
+				"city": "Copenhagen",
+				"street": "Banicka 1",
+				"category": "house",
+				"imageUrl": "https://booksync-jerga-prod.s3.amazonaws.com/uploads/rental/image/5/image.jpeg",
+				"bedrooms": 5,
+				"shared": false,
+				"description": "Very nice apartment in center of the city.",
+				"dailyRate": 23
+			}
+		]
+	},
+
+	{
+		"Username": "Roy",
+		"Gender": "male",
+		"DateOfBirth": "1993-08-21",
+		"Password": "password",
+		"Country": "USA",
+		"Photos": [
+			{
+				"url": "https://randomuser.me/api/portraits/men/90.jpg",
+				"description": "This is my pic and wanted to use it with This Application"
+			}
+		],
+		"Rentals": [
+			{
+				"title": "Amazing modern place",
+				"city": "San Francisco",
+				"street": "Green street",
+				"category": "house",
+				"imageUrl": "https://booksync-jerga-prod.s3.amazonaws.com/uploads/rental/image/5/image.jpeg",
+				"bedrooms": 2,
+				"shared": false,
+				"description": "Hiking routes 10 min walking away",
+				"dailyRate": 140
+			}
+		]
+	},
+	{
+		"Username": "Duke",
+		"Gender": "male",
+		"Password": "password",
+		"Country": "Canada",
+		"Photos": [
+			{
+				"url": "https://randomuser.me/api/portraits/men/96.jpg",
+				"description": "This is my pic and wanted to use it with This Application"
+			}
+		],
+		"Rentals": [
+			{
+				"title": "Apartment In China Town",
+				"city": "Toronto",
+				"street": "Union Street",
+				"category": "apartment",
+				"imageUrl": "https://booksync-jerga-prod.s3.amazonaws.com/uploads/rental/image/5/image.jpeg",
+				"bedrooms": 3,
+				"shared": false,
+				"description": "Very nice apartment in China Town",
+				"dailyRate": 89
+			}
+		]
+
+	},
+	{
+		"Username": "Lloyd",
+		"Gender": "male",
+		"Password": "password",
+		"Country": "Germany",
+		"Photos": [
+			{
+				"url": "https://randomuser.me/api/portraits/men/4.jpg",
+				"description": "This is my pic and wanted to use it with This Application"
+			}
+		],
+		"Rentals": [
+			{
+				"title": "Apartment In China Town",
+				"city": "Berlin",
+				"street": "Union Street",
+				"category": "apartment",
+				"imageUrl": "https://booksync-jerga-prod.s3.amazonaws.com/uploads/rental/image/5/image.jpeg",
+				"bedrooms": 3,
+				"shared": false,
+				"description": "Very nice apartment in China Town",
+				"dailyRate": 89
+			}
+		]
+	},
+	{
+		"Username": "Larsen",
+		"Gender": "male",
+		"Password": "password",
+		"Country": "Sweden",
+		"Photos": [
+			{
+				"url": "https://randomuser.me/api/portraits/men/76.jpg",
+				"description": "Amet officia enim pariatur mollit tempor in ut."
+			}
+		],
+		"Rentals": [
+			{
+				"title": "House with Garden",
+				"city": "Stockholm",
+				"street": "Long Island, Queens",
+				"category": "house",
+				"imageUrl": "https://booksync-jerga-prod.s3.amazonaws.com/uploads/rental/image/5/image.jpeg",
+				"bedrooms": 6,
+				"shared": false,
+				"description": "Very nice house in Long Island with garden",
+				"dailyRate": 189
+			}
+		]
+	},
+	{
+		"Username": "Simon",
+		"Gender": "male",
+		"Password": "password",
+		"Country": "France",
+		"Photos": [
+			{
+				"url": "https://randomuser.me/api/portraits/men/14.jpg",
+				"isMain": true,
+				"description": "Nulla nisi tempor sint cillum aliqua esse aute."
+			}
+		],
+		"Rentals": [
+			{
+				"title": "Cozy modern Condo",
+				"city": "Paris",
+				"street": "Penn Station",
+				"category": "condo",
+				"imageUrl": "https://booksync-jerga-prod.s3.amazonaws.com/uploads/rental/image/5/image.jpeg",
+				"bedrooms": 3,
+				"shared": true,
+				"description": "Building close to Penn Station",
+				"dailyRate": 68
+			}
+		]
+	}
+]
